@@ -73,6 +73,8 @@ Matplotlib: Graphing matrices. Not necessary, but it can help you see what's goi
 
 __Tensorflow__: The holy grail. High-level. Has enough built-in functions for you to build a network without dealing with excessive math. It will be more like the 8 steps I described above.
 
+Link: https://www.tensorflow.org/
+
 Ex. This is linear regression with TF.
 
 ```
